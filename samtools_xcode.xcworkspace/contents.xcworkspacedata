@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:samtools/bam_aux.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_cat.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_color.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_endian.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_flags.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_import.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_index.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_lpileup.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_lpileup.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_mate.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_md.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_mkdup_cs.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_mkdup_ns.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_mkdup.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_mkdup.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_plbuf.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_plbuf.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_plcmd.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_reheader.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_rmdup.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_rmdupse.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_sort.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_split.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_stat.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_tview_curses.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_tview_html.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_tview.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam_tview.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam2bcf_indel.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam2bcf.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam2bcf.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bam2depth.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bamshuf.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bamtk.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bedcov.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/bedidx.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/cut_target.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/errmod.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/errmod.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/faidx.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/kprobaln.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/kprobaln.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/padding.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/phase.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/pos_buffer.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/pos_buffer.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sam_header.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sam_header.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sam_view.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sam.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sam.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sample.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/sample.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/samtools.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/stats_isize.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/stats_isize.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/stats.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/version.h">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/samtools.1">
+   </FileRef>
+</Workspace>
