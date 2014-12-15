@@ -143,7 +143,22 @@
       location = "group:samtools/pos_buffer.h">
    </FileRef>
    <FileRef
+      location = "group:samtools/read_vector.h">
+   </FileRef>
+   <FileRef
       location = "group:samtools/pos_buffer.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/test/test.c">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/test/merge">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/test/mkdup">
+   </FileRef>
+   <FileRef
+      location = "group:samtools/test/test.h">
    </FileRef>
    <FileRef
       location = "group:samtools/sam_header.c">
